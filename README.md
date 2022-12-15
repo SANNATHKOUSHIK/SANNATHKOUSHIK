@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SANNATHKOUSHIK
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on google
+- 👀 Interested in Artificial intelligence
+- 🌱 Currently learning Neural Networks
+- 💞️ Wanna start a company!
 - 📫 How to reach me sannathkoushik@gmail.com
 
 <!---
