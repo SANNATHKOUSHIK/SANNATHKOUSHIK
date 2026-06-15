@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Sannath 👋</h1>
 
 <div align="center">
-  <p><strong>AI Engineer @ nDMatrix | Builder @ Zodeck-mobileapp</strong></p>
+  <p><strong>AI Engineer</strong></p>
   <a href="http://sannathkoushik.com">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Website-sannathkoushik.com-0052FF?style=for-the-badge&logoColor=white" alt="Website Button">
   </a>
