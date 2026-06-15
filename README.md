@@ -42,7 +42,7 @@ I am an engineer bridging the gap between advanced multi-agent AI and physical h
 | **SOSA** | Bionic muscle technology with a 3D-printed honeycomb lattice for robotic suits. | `Hardware` `3D Printing` |
 | **Firebot** | Autonomous, sensor-driven fire-extinguishing robot running on Edge AI. | `Jetson Nano` `C++` |
 | **ENUM** | Automation engine capable of seamlessly launching 300+ Windows applications. | `Windows API` |
-| **Eval_Engine** | Digital academic evaluation platform featuring fabric.js canvas annotations. | `React` `Node.js` |
+
 
 ---
 
