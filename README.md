@@ -1,26 +1,75 @@
-<!-- HEADER ANIMATION -->
 <div align="center">
-  <a href="http://sannathkoushik.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&height=80&lines=>+SYS.LOGIN+SUCCESS...;>+WELCOME+TO+MY+NEURAL+NET.;>+WANNA+CHANGE+THE+WORLD+WITH+AI_" alt="Typing SVG" />
+  <!-- Fluid Waving Animation Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sannath%20Koushik&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Wanna%20change%20the%20world%20with%20AI&descAlignY=55&descAlign=50" alt="Header Image" />
+</div>
+
+<h1 align="center">Hi there, I'm Sannath 👋</h1>
+
+<div align="center">
+  <p><strong>AI Engineer @ nDMatrix | Builder @ Zodeck-mobileapp</strong></p>
+  <a href="http://sannathkoushik.com">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-sannathkoushik.com-0052FF?style=for-the-badge&logoColor=white" alt="Website Button">
   </a>
 </div>
 
+---
+
+### 🚀 About Me
+
+I am an engineer bridging the gap between advanced multi-agent AI and physical hardware. Whether I'm deploying LLMs or wiring up Jetson Nanos, my goal is to build intelligent systems that scale and create real-world impact.
+
+- 🔭 **Currently building:** **AgentOS** and autonomous edge-AI systems.
+- 🌱 **Exploring:** Graph Neural Networks and Bionic Robotics (**SOSA**).
+- ⚡ **Fun fact:** I built an extreme automation engine (**ENUM**) capable of launching 300+ Windows applications seamlessly.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <a href="http://sannathkoushik.com" target="_blank">
-    <img src="https://img.shields.io/badge/ACCESS_SECURE_PORTAL_//_sannathkoushik.com-00FF00?style=for-the-badge&logo=googlechrome&logoColor=000000&color=000000&labelColor=000000" alt="Website Button"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,react,nodejs,js,cpp,tailwind,docker,aws,linux,git&theme=light" alt="Clean UI Tech Stack Icons" />
+  </a>
+</div>
+
+---
+
+### 🏆 Featured Architectures
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **AgentOS** | Multi-agent optimization orchestrating LLMs & Graph Attention Networks. | `Python` `LLMs` `GAT` |
+| **SOSA** | Bionic muscle technology with a 3D-printed honeycomb lattice for robotic suits. | `Hardware` `3D Printing` |
+| **Firebot** | Autonomous, sensor-driven fire-extinguishing robot running on Edge AI. | `Jetson Nano` `C++` |
+| **ENUM** | Automation engine capable of seamlessly launching 300+ Windows applications. | `Windows API` |
+| **Eval_Engine** | Digital academic evaluation platform featuring fabric.js canvas annotations. | `React` `Node.js` |
+
+---
+
+### 📊 GitHub Analytics
+
+<!-- Dynamic UI Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SANNATHKOUSHIK&theme=flat&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Animated Trophies" />
   </a>
 </div>
 <br>
 
-<!-- BIO ANIMATION HEADER -->
-<div align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=00FF00&background=00000000&width=400&height=40&lines=>+cat+user_profile.json" alt="Bio Header" />
+<!-- Clean Stat Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SANNATHKOUSHIK&show_icons=true&theme=light&hide_border=true&include_all_commits=true&count_private=true" alt="Sannath's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANNATHKOUSHIK&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
 </div>
 
-```json
-{
-  "designation": "AI Engineer @ nDMatrix | Builder @ Zodeck-mobileapp",
-  "alma_mater": "MVGR College of Engineering",
-  "core_focus": ["Multi-Agent Orchestration", "Robotics & Edge AI", "Graph Neural Networks"],
-  "status": "Engineering scalable AI and autonomous physical systems"
-}
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANNATHKOUSHIK/SANNATHKOUSHIK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SANNATHKOUSHIK/SANNATHKOUSHIK/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SANNATHKOUSHIK/SANNATHKOUSHIK/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
